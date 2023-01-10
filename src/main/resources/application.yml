@@ -1,0 +1,9 @@
+server:
+  port: 9901
+
+rocketmq:
+  consumerId: mojiwu-group
+  accessKey: 111
+  secretKey: 1111
+  nameServer: 120.27.162.84:9876
+  topic: mojiwu
